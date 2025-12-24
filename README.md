@@ -27,6 +27,8 @@ Tasks automatically remove themselves after expiry.
 
 ## 📸 Screenshots
 ![Home](home.jpeg)
+![Tasks](Tasks.jpeg)
+
 
 ## 🎥 Demo
 
