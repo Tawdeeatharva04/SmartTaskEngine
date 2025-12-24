@@ -26,7 +26,11 @@ Tasks automatically remove themselves after expiry.
 - Coroutines & Flow
 
 ## 📸 Screenshots
-_Add screenshots here_
+![Home](home.png)
+
+## 🎥 Demo
+
+[Watch Demo](smart_task_engine_demo.mp4)
 
 ## 💡 Why This Project?
 Built to demonstrate system design thinking beyond CRUD apps — this is a self-regulating task engine.
