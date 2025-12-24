@@ -1,0 +1,24 @@
+<resources>
+    <!-- Primary -->
+    <color name="primary">#6A5AE0</color>      <!-- Soft purple -->
+    <color name="primary_dark">#5146C6</color>
+
+    <!-- Backgrounds -->
+    <color name="background">#F7F7FB</color>
+    <color name="card_bg">#FFFFFF</color>
+
+    <!-- Text -->
+    <color name="text_primary">#1F1F1F</color>
+    <color name="text_secondary">#6B6B6B</color>
+
+    <!-- Accent -->
+    <color name="accent">#00BFA6</color>
+
+    <!-- Priority colors -->
+    <color name="priority_high">#E53935</color>     <!-- Red -->
+    <color name="priority_medium">#FB8C00</color>   <!-- Orange -->
+    <color name="priority_low">#43A047</color>      <!-- Green -->
+
+    <color name="swipe_delete_bg">#E0DB3D3C</color>
+
+</resources>
