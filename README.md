@@ -26,7 +26,7 @@ Tasks automatically remove themselves after expiry.
 - Coroutines & Flow
 
 ## 📸 Screenshots
-![Home](home.png)
+![Home](home.jpeg)
 
 ## 🎥 Demo
 
